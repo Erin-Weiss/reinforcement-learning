@@ -65,7 +65,10 @@ This project demonstrates my ability to:
 - A **higher learning rate** (α ≈ 0.99) accelerates convergence.  
 - Lower **decay rates** encourage sufficient exploration before exploitation.  
 - The robot reliably achieves the **shortest path ≈ 84 %** of the time at 2,500 episodes.  
-- Reinforcement learning enables **adaptive pathfinding** without explicit rule-based programming.  
+- Reinforcement learning enables **adaptive pathfinding** without explicit rule-based programming.
+
+> **Note:** Because the model retrains from scratch each time the notebook is run, specific numerical results (such as rewards or episode averages) may vary slightly between runs.  
+> Reported values and outputs represent *typical results* that are close but not always identical.
 
 ---
 
