@@ -52,9 +52,9 @@ This project demonstrates my ability to:
 | **Environment Size** | 10 × 10 grid (100 cells) |
 | **Rewards** | +100 (goal), –20 (obstacle), –1 (step) |
 | **Episodes** | 2,500 (default, tuned for accuracy vs speed) |
-| **Learning Rate (α)** | 0.99 |
-| **Discount Factor (γ)** | 0.99 |
-| **Exploration Decay Rate** | 0.001 |
+| **Learning Rate (α)** | 0.99 (default, tuned for accuracy vs speed)|
+| **Discount Factor (γ)** | 0.99 (default, tuned for accuracy vs speed)|
+| **Exploration Decay Rate** | 0.001 (default, tuned for accuracy vs speed)|
 | **Epsilon (ε)** | Starts at 1.0 → decays to 0.01 |
 | **File Type** | Python (.ipynb) Google Colab Notebook |
 
