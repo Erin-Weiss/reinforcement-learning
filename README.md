@@ -5,7 +5,7 @@
 
 ## 🧠 Coding Demo
 
-👉 [**Click here to open the full Google Colab notebook**](https://colab.research.google.com/github/Erin-Weiss/reinforcement-learning/blob/main/copy_of_coding_demo.ipynb)
+👉 [**Click here to open the full Google Colab notebook**](https://colab.research.google.com/drive/1AdGevMypjOROYdtjgmwzJGFNswwUC5mm?usp=sharing)
 
 ---
 
@@ -122,7 +122,6 @@ These advantages make Q-Learning a practical foundation for developing real-worl
 
 ## 🔗 Links  
 
-- **Live Colab Notebook:** [Open in Google Colab](https://colab.research.google.com/github/Erin-Weiss/reinforcement-learning/blob/main/copy_of_coding_demo.ipynb)
-- **GitHub Repository:** [View Source Code](https://github.com/Erin-Weiss/reinforcement-learning)
+- **Live Colab Notebook:** [Open in Google Colab](https://colab.research.google.com/drive/1AdGevMypjOROYdtjgmwzJGFNswwUC5mm?usp=sharing)
 - **Portfolio Page:** [View on Portfolio](https://erin-weiss.github.io/articles/RL-Article.html)
 
